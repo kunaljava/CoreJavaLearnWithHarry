@@ -1,7 +1,7 @@
 package corejava;
 import java.util.Scanner;
 
-public class Float_ch_1 {
+public class Float_ch_2 {
 public static void main(String[] args) {
 	
 	System.out.println("Taking float input from user:");

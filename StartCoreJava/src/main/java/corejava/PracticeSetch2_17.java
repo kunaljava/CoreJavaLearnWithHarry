@@ -12,7 +12,7 @@ public class PracticeSetch2_17 {
         grade=(char)(grade-8);
         System.out.println(grade);
         
-        System.out.println("ytedt");
+        //System.out.println("ytedt");
 	}
 
 }

@@ -7,13 +7,15 @@ public class Stringch3_1 {
 		// TODO Auto-generated method stub
     //Scanner sc=new Scanner(System.in);
    // String name=new String("kunal");
-    String name ="rajesh singh agrawal";
+    String name ="sanjay";
    // String name="kunal singh";
  // int sc =name.length();
    // String lstring=name.toLowerCase();
    // System.out.println(lstring);
  //   String ustring=name.toUpperCase();
-    System.out.println(ustring);
+    //System.out.println(name.lastIndexOf("agr"));
+   // System.out.println(name.equals("sanjay"));
+    System.out.println(name.equalsIgnoreCase("sanjay"));
 	}
 
 }

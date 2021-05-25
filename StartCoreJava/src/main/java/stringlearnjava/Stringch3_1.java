@@ -5,10 +5,17 @@ public class Stringch3_1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-    Scanner sc=new Scanner(System.in);
+    //Scanner sc=new Scanner(System.in);
    // String name=new String("kunal");
-    String name="kunal singh";
-    System.out.println(name);
+    String name ="rajesh singh agrawal";
+   // String name="kunal singh";
+ // int sc =name.length();
+   // System.out.println(sc);
+   // String lstring=name.toLowerCase();
+   // System.out.println(lstring);
+    String ustring=name.toUpperCase();
+    System.out.println(ustring);
 	}
 
 }
+           //   convert String name into lower case which give new String 

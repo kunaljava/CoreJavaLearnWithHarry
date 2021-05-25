@@ -12,7 +12,7 @@ public class Stringch3_1 {
  // int sc =name.length();
    // String lstring=name.toLowerCase();
    // System.out.println(lstring);
-    String ustring=name.toUpperCase();
+ //   String ustring=name.toUpperCase();
     System.out.println(ustring);
 	}
 

@@ -10,7 +10,6 @@ public class Stringch3_1 {
     String name ="rajesh singh agrawal";
    // String name="kunal singh";
  // int sc =name.length();
-   // System.out.println(sc);
    // String lstring=name.toLowerCase();
    // System.out.println(lstring);
     String ustring=name.toUpperCase();

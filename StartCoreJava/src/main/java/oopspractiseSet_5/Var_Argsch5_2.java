@@ -8,8 +8,11 @@ public class Var_Argsch5_2 {
 		return a+b+c;
 	}
 	static int sum(int a, int b, int c, int d) {
-	 return	a+b+c+d;
-	}
+	return	a+b+c+d;
+//
+	
+	
+}
 	
 	public static void main(String[] args) {
 		System.out.println("Welcome to varargs methods in java");
